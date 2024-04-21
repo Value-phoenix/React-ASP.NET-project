@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\@hbs@\\work\\React-.NET\\React-ASP.NET-project\\ReactApp-ASP.NET\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3333B2AF-C0FD-41A5-B65C-F9FC1C4194D0}|ReactApp-ASP.NET.Server\\ReactApp-ASP.NET.Server.csproj|d:\\@hbs@\\work\\react-.net\\react-asp.net-project\\reactapp-asp.net\\reactapp-asp.net.server\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3333B2AF-C0FD-41A5-B65C-F9FC1C4194D0}|ReactApp-ASP.NET.Server\\ReactApp-ASP.NET.Server.csproj|solutionrelative:reactapp-asp.net.server\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3333B2AF-C0FD-41A5-B65C-F9FC1C4194D0}|ReactApp-ASP.NET.Server\\ReactApp-ASP.NET.Server.csproj|d:\\@hbs@\\work\\react-.net\\react-asp.net-project\\reactapp-asp.net\\reactapp-asp.net.server\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3333B2AF-C0FD-41A5-B65C-F9FC1C4194D0}|ReactApp-ASP.NET.Server\\ReactApp-ASP.NET.Server.csproj|solutionrelative:reactapp-asp.net.server\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF2835D-1F6B-471B-9FFD-A41D46667D8A}|reactapp-asp.net.client\\reactapp-asp.net.client.esproj|d:\\@hbs@\\work\\react-.net\\react-asp.net-project\\reactapp-asp.net\\reactapp-asp.net.client\\reactapp-asp.net.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AF2835D-1F6B-471B-9FFD-A41D46667D8A}|reactapp-asp.net.client\\reactapp-asp.net.client.esproj|solutionrelative:reactapp-asp.net.client\\reactapp-asp.net.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TenantService.cs",
+              "DocumentMoniker": "D:\\@hbs@\\work\\React-.NET\\React-ASP.NET-project\\ReactApp-ASP.NET\\ReactApp-ASP.NET.Server\\TenantService.cs",
+              "RelativeDocumentMoniker": "ReactApp-ASP.NET.Server\\TenantService.cs",
+              "ToolTip": "D:\\@hbs@\\work\\React-.NET\\React-ASP.NET-project\\ReactApp-ASP.NET\\ReactApp-ASP.NET.Server\\TenantService.cs",
+              "RelativeToolTip": "ReactApp-ASP.NET.Server\\TenantService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA8wDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:12:19.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "D:\\@hbs@\\work\\React-.NET\\React-ASP.NET-project\\ReactApp-ASP.NET\\ReactApp-ASP.NET.Server\\Tenant.cs",
+              "RelativeDocumentMoniker": "ReactApp-ASP.NET.Server\\Tenant.cs",
+              "ToolTip": "D:\\@hbs@\\work\\React-.NET\\React-ASP.NET-project\\ReactApp-ASP.NET\\ReactApp-ASP.NET.Server\\Tenant.cs",
+              "RelativeToolTip": "ReactApp-ASP.NET.Server\\Tenant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:10:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "reactapp-asp.net.client",
+              "DocumentMoniker": "D:\\@hbs@\\work\\React-.NET\\React-ASP.NET-project\\ReactApp-ASP.NET\\reactapp-asp.net.client\\reactapp-asp.net.client.esproj",
+              "RelativeDocumentMoniker": "reactapp-asp.net.client\\reactapp-asp.net.client.esproj",
+              "ToolTip": "D:\\@hbs@\\work\\React-.NET\\React-ASP.NET-project\\ReactApp-ASP.NET\\reactapp-asp.net.client\\reactapp-asp.net.client.esproj",
+              "RelativeToolTip": "reactapp-asp.net.client\\reactapp-asp.net.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-21T21:07:45.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
